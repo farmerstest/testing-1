@@ -1,1 +1,2 @@
-sdnsjn
+File : Send to prod via jenkins 
+jenkins(ubunutu) ----> ec2 prod
